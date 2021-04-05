@@ -1,2 +1,3 @@
-# jupyter_notebook
-Learning to work with Anaconda and Jupyter Notebooks.
+# Jupyter Notebook 🍊
+
+Learning how to apply Linear Algebra and Tensons with Anaconda and Jupyter Notebooks.
